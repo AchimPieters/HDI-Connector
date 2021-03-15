@@ -6,6 +6,8 @@
 - StudioPieters® is open source, and 100% free. Please consider donating to StudioPieters® before starting the fun of building and learning. 
 - StudioPieters® is a <b>non-profit organisation</b> devoted to making creative use of electronics accessible to everyone.
 
+You can find us here: https://www.studiopieters.nl
+
 # License
 
 Copyright (c) 2021 StudioPieters®
