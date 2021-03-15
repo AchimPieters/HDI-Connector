@@ -1,10 +1,10 @@
 # HDI-Connector
 
 # About StudioPieters®
-StudioPieters® is my public process for sharing innovative new technologies and collaborative development. The user feedback that you provide to StudioPieters® is really on ideas while they’re still in an early conceptual stage. The best way to learn is to start experimenting yourself and share your experience here.
+- StudioPieters® is my public process for sharing innovative new technologies and collaborative development. The user feedback that you provide to StudioPieters® is really on ideas while they’re still in an early conceptual stage. The best way to learn is to start experimenting yourself and share your experience here.
 
-StudioPieters® is open source, and 100% free. Please consider donating to StudioPieters® before starting the fun of building and learning. 
-StudioPieters® is a <b>non-profit organisation</b> devoted to making creative use of electronics accessible to everyone.
+- StudioPieters® is open source, and 100% free. Please consider donating to StudioPieters® before starting the fun of building and learning. 
+- StudioPieters® is a <b>non-profit organisation</b> devoted to making creative use of electronics accessible to everyone.
 
 # License
 
